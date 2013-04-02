@@ -1,4 +1,4 @@
 ysi_upload
 ==========
 
-Code ported from bash script to PHP to facilitate painless upload to Yousendit public dropboxes.
+Code based on a bash script, translated to PHP, to facilitate painless upload to Yousendit public dropboxes.
